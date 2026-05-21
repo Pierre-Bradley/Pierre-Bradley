@@ -13,7 +13,7 @@ Passionné par la convergence entre le **hardware (bas niveau)** et la **sécuri
 
 * 🎯 **Focus actuel :** Automatisation d'outils d'audit (Python/Bash) et détection proactive des menaces (Honeypots).
 * 🏫 **Parcours :** Ex-Licence Informatique (Fondations Algorithmiques) ➔ Actuellement au Lycée International Victor Hugo (Toulouse).
-* 💼 **Mission à venir (Été 2026) :** Stage technique d'infrastructure et durcissement de postes à l'**INRAE TOXALIM**.
+* 💼 **Mission à venir (Été 2026) :** Recherche d'**alternance**.
 
 ---
 
